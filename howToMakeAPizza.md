@@ -1,5 +1,5 @@
-## Receta mi Pizza
-### estos son los ingredientes:
+## Pizza pollo y champiñones
+### Ingredientes:
 -Harina
 -Agua
 -Sal
